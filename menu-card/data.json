@@ -1,0 +1,55 @@
+[
+  { "image": "./assert/biriyani.png",
+    "tag": "Bestseller", 
+    "name": "Biriyani", 
+    "price": "₹300", 
+    "rating": "4.8" },
+
+  { "image": "./assert/sanveg.jpg" ,
+    "tag": "Pure Veg", 
+    "name": "Sandwich", 
+    "price": "₹150", 
+    "rating": "4.5" },
+
+  { "image": "./assert/biriyani.png",
+    "tag": "South Indian", 
+    "name": "Dosa", 
+    "price": "₹120", 
+    "rating": "4.7" },
+
+   {"image": "./assert/nugget.png", 
+    "tag": "Crispy", 
+    "name": "Nuggets", 
+    "price": "₹180", 
+    "rating": "4.4" },
+                    
+   {"image": "./assert/pasta.webp", 
+    "tag": "Italian", 
+    "name": "Pasta", 
+    "price": "₹220", 
+    "rating": "4.6" },
+
+    {"image": "./assert/bonda.jpg", 
+    "tag": "Snack", 
+    "name": "Bonda", 
+    "price": "₹100", 
+    "rating": "4.3" },
+
+    {"image": "./assert/pizza.jpg", 
+    "tag": "Cheesy", 
+    "name": "Pizza", 
+    "price": "₹250", 
+    "rating": "4.9" },
+
+    {"image": "./assert/idly.jpg",
+    "tag": "Healthy", 
+    "name": "Idly", 
+    "price": "₹80", 
+    "rating": "4.2" },
+                    
+   {"image": "./assert/puri.jpg", 
+    "tag": "Traditional", 
+    "name": "Puri", 
+    "price": "₹110", 
+    "rating": "4.1" }
+]
